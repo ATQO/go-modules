@@ -1,1 +1,1 @@
-[![Build and Test](https://github.com/aditqo/go-modules/actions/workflows/main.yml/badge.svg)](https://github.com/aditqo/go-modules/actions/workflows/main.yml)
+[![Build and Test](https://github.com/aditqo/go-modules/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/aditqo/go-modules/actions/workflows/main.yml)
