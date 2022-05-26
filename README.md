@@ -1,1 +1,1 @@
-[![Build and Test](https://github.com/aditqo/go-modules/actions/workflows/build-and-test.yml/badge.svg?branch=main)](https://github.com/aditqo/go-modules/actions/workflows/build-and-test.yml)
+[![Build and Test](https://github.com/aditqo/go-modules/actions/workflows/build-and-test.yml/badge.svg?branch=main)](https://github.com/aditqo/go-modules/actions/workflows/build-and-test.yml) [![Known Vulnerabilities](https://snyk.io/test/github/aditqo/go-modules/badge.svg)]
